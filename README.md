@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, ich bin D3n1s</h1>
-<h3 align="center">Ich programmiere seit 2008. Ich erstelle hauptsächlich Softwarelösungen für Unternehmen und Privatkunden.</h3>
+<h3 align="center">Ich programmiere seit 2008. Hauptsächlich erstelle ich Softwarelösungen für Unternehmen und Privatkunden.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3n1snet&label=Profile%20views&color=0e75b6&style=flat" alt="d3n1snet" /> </p>
 
