@@ -20,8 +20,6 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/d3n1s.net"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="d3n1s.net" /></a></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3n1snet&show_icons=true&theme=dark&text_color=ffffff&locale=de" alt="d3n1snet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3n1snet&theme=dark" alt="d3n1snet" /></p>
