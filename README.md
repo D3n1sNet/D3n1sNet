@@ -22,5 +22,4 @@
 <h3 align="left">Support:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3n1snet&show_icons=true&theme=dark&text_color=ffffff&locale=de" alt="d3n1snet" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3n1snet&theme=dark" alt="d3n1snet" /></p>
 
