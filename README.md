@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3n1snet&show_icons=true&theme=dark&text_color=ffffff&locale=de" alt="d3n1snet" /></p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true&theme=dark&text_color=ffffff&locale=de" alt="d3n1snet" /></p>
+
+
