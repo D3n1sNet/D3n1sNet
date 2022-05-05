@@ -2,7 +2,7 @@
 <h3 align="center">I've been programming since 2008. Mainly create software solutions for private customers.</h3
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3n1snet&label=Profile%20views&color=0e75b6&style=flat" alt="d3n1snet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3n1snet" alt="d3n1snet" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3n1snet" alt="d3n1snet" /></a> </p>
 
 - ⚡ visit me **http://d3n1s.net/**
 
