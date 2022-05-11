@@ -21,5 +21,5 @@
 <h3 align="left">Support:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3n1snet&show_icons=true&theme=dark&text_color=ffffff&locale=de" alt="d3n1snet" /></p>
 
-<a href="https://www.youtube.com/c/D3n1sDotNet"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-d3n1s-dark?style=flat-square&logo=youtube"></a>
-<a href="mailto:d3n1s.net@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-d3n1s-dark?style=flat-square&logo=gmail"></a>
+<a href="https://www.youtube.com/c/D3n1sDotNet"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-D3n1s.Net-dark?style=flat-square&logo=youtube"></a>
+<a href="mailto:d3n1s.net@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D3n1s.Net-dark?style=flat-square&logo=gmail"></a>
