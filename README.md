@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=midnight-purple&show_icons=true" alt="d3n1snet" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3n1snet" alt="d3n1snet" /></a> </p>
   
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /></a> </p>
