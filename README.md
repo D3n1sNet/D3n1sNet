@@ -3,6 +3,8 @@
   <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3n1snet&label=Profile%20views&color=0e75b6&style=flat" alt="d3n1snet" /> </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=midnight-purple&show_icons=true" alt="d3n1snet" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3n1snet" alt="d3n1snet" /></a> </p>
