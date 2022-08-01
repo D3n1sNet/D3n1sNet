@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Nick is D3n1s</h1>
-<h3 align="center">I've been programming since 2008. Mainly create software solutions for private customers.</h3
+<h3 align="center">I've been programming since 2008. Mainly create software solutions for friends.</h3
   <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3n1snet&label=Profile%20views&color=0e75b6&style=flat" alt="d3n1snet" /> </p>
 
