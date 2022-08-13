@@ -1,4 +1,20 @@
 <h1 align="center">Hi 👋, My Nick is D3n1s</h1>
+
+
+<img 
+     src="https://komarev.com/ghpvc/?username=doener2323&label=Profile%20Views&color=008042&style=flat&label=Visitors" 
+     alt="Visitors">
+</img>
+<img 
+     src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/doener2323" 
+     alt="Profile Stars">
+</img>
+<img 
+     src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/doener2323" 
+     alt="Profile Forks">
+</img>
+
+
 <h3 align="center">I've been programming since 2008. Mainly create software solutions for friends.</h3
   <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3n1snet&label=Profile%20views&color=0e75b6&style=flat" alt="d3n1snet" /> </p>
