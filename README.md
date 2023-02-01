@@ -44,7 +44,7 @@
      
 https://github-readme-stats.vercel.app/api/top-langs/?username=D3n1sNet&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages
      
-     [![Daily Downloads](http://poser.pugx.org/phpunit/phpunit/d/daily)](https://packagist.org/packages/phpunit/phpunit)
+<p align="center"> <a href="http://poser.pugx.org/phpunit/phpunit/d/daily)" /></a> </p>
 </a> 
 </p>
 
