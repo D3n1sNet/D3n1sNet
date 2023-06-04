@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, My Nick is D3n1s</h1>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
+
 
 <p align="center"> <img 
      src="https://komarev.com/ghpvc/?username=doener2323&label=Profile%20Views&color=008042&style=flat&label=Visitors" 
