@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, My Nick is D3n1s</h1>
 
+<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
+<p align=center>
+ </p>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
 
 
