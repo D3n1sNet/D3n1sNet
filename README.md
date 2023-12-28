@@ -43,7 +43,7 @@
 <a href="https://discord.gg/D3n1sDotNet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="D3n1sDotNet" height="30" width="40" /></a>
 </p>
 
-
+<img align='right' src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="200" >
 
 
 <h3 align="left">Languages and Tools:</h3>
