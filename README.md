@@ -31,30 +31,6 @@
   </a>
 </p>
 
-### 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap&theme=dark" />
-  </a>
-</p>
-
-### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,react&theme=dark" />
-  </a>
-</p>
-
-### 𝘖𝘵𝘩𝘦𝘳 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,linux,idea,vscode,visualstudio,figma&theme=dark" />
-  </a>
-</p>
-
 <br>
 <!--Contatos-->
 <h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
