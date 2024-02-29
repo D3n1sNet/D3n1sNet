@@ -23,8 +23,6 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
 
-### 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,nodejs&theme=dark" />
@@ -33,7 +31,7 @@
 
 <br>
 <!--Contatos-->
-<h3 align="center">:phone: <i>CONTACT</i> :phone:</h2>
+<h3 align="center">:phone: <i>CONTACT:</i> :phone:</h2>
 
 <div align="center">
 <a href="https://www.instagram.com/d3n1sdotnet/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
