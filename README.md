@@ -8,7 +8,7 @@
 
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-  ## Hi 👋, My Nick is D3n1s! I've been programming since 2008.
+### Hi 👋, My Nick is D3n1s! I've been programming since 2008.
  </p>
  
  <p align="center"> <img 
@@ -23,7 +23,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
 
-### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
+### 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -42,5 +42,3 @@
 </div>
 
 <img align='center' src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" >
-
-<img align='center' width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
