@@ -8,7 +8,7 @@
 
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-### Hi 👋, My Nick is D3n1s! I've been programming since 2008.
+### My Nick is D3n1s! I've been programming since 2008.
  </p>
  
  <p align="center"> <img 
