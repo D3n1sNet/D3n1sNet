@@ -4,10 +4,11 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{D3n1sNet}/count.svg" /></p>
 </div>
 
-## Hi 👋, My Nick is D3n1s
+
 
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
+  ## Hi 👋, My Nick is D3n1s
  </p>
 
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
