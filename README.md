@@ -33,7 +33,7 @@
 
 <br>
 <!--Contatos-->
-<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
+<h3 align="center">:phone: <i>CONTACT</i> :phone:</h2>
 
 <div align="center">
 <a href="https://www.instagram.com/d3n1sdotnet/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
