@@ -28,6 +28,8 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
 
+<img align="right" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
+
 ### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
 <p align="left">
