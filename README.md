@@ -1,7 +1,7 @@
 <div align = "center">
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
   <br><p align="center"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{D3n1sNet}/count.svg" /></p>
 </div>
 
 ## Hi 👋, My Nick is D3n1s
