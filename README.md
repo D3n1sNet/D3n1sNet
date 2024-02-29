@@ -10,11 +10,8 @@
 <p align=center>
   ## Hi 👋, My Nick is D3n1s! I've been programming since 2008.
  </p>
-
-<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
-
-
-<p align="center"> <img 
+ 
+ <p align="center"> <img 
      src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/D3n1sNet" 
      alt="Profile Stars">
 </img>
@@ -24,7 +21,8 @@
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
 
-<img align="right" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
+<img align="" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
 
 ### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
