@@ -71,6 +71,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
+<img align='right' src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" >
+
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
