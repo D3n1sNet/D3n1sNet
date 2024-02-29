@@ -22,8 +22,7 @@
 
 <h3 align="center">I've been programming since 2008. Mainly create software solutions for friends.</h3
   <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=d3n1snet&label=Profile%20views&color=0e75b6&style=flat" alt="d3n1snet" /> </p>
-
+  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
 
 <img align="right" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
