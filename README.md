@@ -9,6 +9,7 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
   ## Hi 👋, My Nick is D3n1s
+  I've been programming since 2008. Mainly create software solutions for friends.
  </p>
 
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
@@ -20,9 +21,7 @@
 </img>
 </img> </p>
 
-
-<h3 align="center">I've been programming since 2008. Mainly create software solutions for friends.</h3
-  <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
+<img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
 
