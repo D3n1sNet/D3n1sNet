@@ -8,8 +8,7 @@
 
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-  ## Hi 👋, My Nick is D3n1s
-  I've been programming since 2008. Mainly create software solutions for friends.
+  ## Hi 👋, My Nick is D3n1s! I've been programming since 2008.
  </p>
 
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
