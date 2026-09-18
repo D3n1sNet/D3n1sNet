@@ -9,9 +9,6 @@
 <p align=center>
 ### My Nick is D3n1s! I've been programming since 2008.
 
-  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
-
 
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 
