@@ -19,11 +19,6 @@
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
 
- <p align="center"> <img 
-     src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dToolzProjects" 
-     alt="Profile Stars">
-</img>
-</img> </p>
 
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 
