@@ -8,13 +8,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
 ### My Nick is D3n1s! I've been programming since 2008.
- </p>
- 
- <p align="center"> <img 
-     src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/D3n1sNet" 
-     alt="Profile Stars">
-</img>
-</img> </p>
 
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3n1sNet&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
